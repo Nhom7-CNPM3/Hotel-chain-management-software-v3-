@@ -1,0 +1,56 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "MaLoaiPhong": "1",
+      "MaNhomKhuVucPhong": "1",
+      "TenPhong": "Phòng 1",
+      "GhiChu": "Ghi chú về phòng 1",
+      "Status": "Active",
+      "StatusDatCho": "PhongTrong",
+      "StatusThongBao": "On",
+      "createAt": "2022-01-01T00:00:00.000Z",
+      "updateAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "MaLoaiPhong": "2",
+      "MaNhomKhuVucPhong": "1",
+      "TenPhong": "Phòng 2",
+      "GhiChu": "Ghi chú về phòng 2",
+      "Status": "Active",
+      "StatusDatCho": "PhongTrong",
+      "StatusThongBao": "On",
+      "createAt": "2022-01-01T00:00:00.000Z",
+      "updateAt": "2022-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "MaLoaiPhong": "3",
+      "MaNhomKhuVucPhong": "1",
+      "TenPhong": "Phòng 3 Update",
+      "GhiChu": "Ghi chú về phòng 3 Update",
+      "Status": "Active",
+      "StatusDatCho": "PhongTrong",
+      "StatusThongBao": "On",
+      "createAt": "2022-01-01T00:00:00.000Z",
+      "updateAt": "2022-01-01T00:00:00.000Z"
+    }
+  ],
+  "roomclasss": [
+    {
+      "id": "1",
+      "MaKhachSan": "1",
+      "TenLoaiPhong": "Loại phòng 1",
+      "GiaTheoGio": 100,
+      "GiaTheoNgay": 500
+    },
+    {
+      "id": "2",
+      "MaKhachSan": "1",
+      "TenLoaiPhong": "Loại phòng 2",
+      "GiaTheoGio": 150,
+      "GiaTheoNgay": 600
+    }
+  ]
+}
